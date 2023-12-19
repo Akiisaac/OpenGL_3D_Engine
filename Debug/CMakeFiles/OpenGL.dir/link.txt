@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -g CMakeFiles/OpenGL.dir/src/main.c.o -o OpenGL 
