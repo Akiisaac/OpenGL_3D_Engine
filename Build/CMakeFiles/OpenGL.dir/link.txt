@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -g -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -lGLEW -g CMakeFiles/OpenGL.dir/src/main.cpp.o -o OpenGL 
